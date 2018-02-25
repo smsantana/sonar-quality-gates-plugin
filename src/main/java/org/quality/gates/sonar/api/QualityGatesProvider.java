@@ -15,7 +15,7 @@ public class QualityGatesProvider {
 
     private static final int MILLISECONDS_10_MINUTES = 600000;
 
-    private static final int MILLISECONDS_10_SECONDS = 10000;
+    private static final int MILLISECONDS_10_SECONDS = 180000;
 
     private QualityGateResponseParser qualityGateResponseParser;
 
